@@ -1,4 +1,5 @@
 # pt Download
+DOMAIN-KEYWORD,tracker
 PROCESS-NAME,aria2c
 PROCESS-NAME,BitComet
 PROCESS-NAME,fdm
@@ -33,4 +34,4 @@ PROCESS-NAME,UUBooster
 PROCESS-NAME,uugamebooster
 DOMAIN-KEYWORD,announce
 DOMAIN-KEYWORD,torrent
-DOMAIN-KEYWORD,tracker
+
