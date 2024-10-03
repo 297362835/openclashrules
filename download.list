@@ -1,9 +1,6 @@
 # pt Download
 DOMAIN-KEYWORD,tracker
-DOMAIN-KEYWORD,ptsbao
-DOMAIN-KEYWORD,pterclub
-DOMAIN-KEYWORD,m-team
-DOMAIN-KEYWORD,pthome
+DOMAIN-KEYWORD,announce
 PROCESS-NAME,aria2c
 PROCESS-NAME,BitComet
 PROCESS-NAME,fdm
@@ -36,6 +33,5 @@ PROCESS-NAME,xray
 PROCESS-NAME,hysteria
 PROCESS-NAME,UUBooster
 PROCESS-NAME,uugamebooster
-DOMAIN-KEYWORD,announce
 DOMAIN-KEYWORD,torrent
 
