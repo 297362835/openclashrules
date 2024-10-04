@@ -1,5 +1,12 @@
-DOMAIN-KEYWORD,m-team
-DOMAIN-KEYWORD,pterclub
-DOMAIN-KEYWORD,ptsbao
-DOMAIN-KEYWORD,pthome
-DOMAIN-KEYWORD,pt.0ff.cc
+# NAME: pt(m-team,pterclub,ptsbao,pthome,freefarm)
+DOMAIN,pt.0ff.cc
+DOMAIN,pthome.net
+DOMAIN,ptsbao.club
+DOMAIN,kp.m-team.cc
+DOMAIN,kp.m-team.io
+DOMAIN,pterclub.com
+DOMAIN-SUFFIX,m-team
+DOMAIN-SUFFIX,pterclub
+DOMAIN-SUFFIX,ptsbao
+DOMAIN-SUFFIX,pthome
+DOMAIN-SUFFIX,pt.0ff.cc
