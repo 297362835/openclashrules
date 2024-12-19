@@ -1,6 +1,13 @@
 # 直连补充列表(国内域名不解析时，防止走代理使用)
 
 # MyList
+
+#TRANSMISSION MACVLAN
+IP-CIDR,192.168.5.110
+SRC-IP-CIDR,192.168.1.110
+
+#PT网站
+
 # 域名后缀匹配
 DOMAIN-SUFFIX,time.windows.com
 DOMAIN-SUFFIX,lanzov.com
