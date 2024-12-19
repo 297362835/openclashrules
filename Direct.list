@@ -6,8 +6,8 @@
 IP-CIDR,192.168.5.110/32
 SRC-IP-CIDR,192.168.5.110/32
 
-#PT网站
-
+#京东云
+SRC-IP-CIDR,192.168.5.68/32
 # 域名后缀匹配
 DOMAIN-SUFFIX,time.windows.com
 DOMAIN-SUFFIX,lanzov.com
