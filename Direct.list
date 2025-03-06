@@ -6,8 +6,23 @@
 IP-CIDR,192.168.5.110/32
 SRC-IP-CIDR,192.168.5.110/32
 
+#PT下载
+- SRC-PORT,51413 
+- DOMAIN-KEYWORD,pterclub
+- DOMAIN-KEYWORD,pthome
+- DOMAIN-KEYWORD,m-team
+- DOMAIN-KEYWORD,ptsbao
+- DOMAIN-KEYWORD,tracker
+- DOMAIN-KEYWORD,0ff
+- DST-PORT,51413,DIRECT #匹配数据目标端口(直连)
+- SRC-PORT,51413,DIRECT #匹配数据源端口(直连)
+
 #京东云
 SRC-IP-CIDR,192.168.5.68/32
+
+
+
+
 # 域名后缀匹配
 DOMAIN-SUFFIX,time.windows.com
 DOMAIN-SUFFIX,lanzov.com
