@@ -33,3 +33,9 @@ IP-CIDR,208.67.220.220/32,no-resolve
 # NAME: zlib
 DOMAIN-KEYWORD,zlibrary
 DOMAIN-KEYWORD,z-lib
+
+# NAME: MOVIEPILOT
+DOMAIN-SUFFIX,api.themoviedb.org
+DOMAIN-SUFFIX,api.thetvdb.com
+DOMAIN-SUFFIX,api.telegram.org
+DOMAIN-SUFFIX,raw.githubusercontent.com
